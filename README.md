@@ -1,21 +1,29 @@
 
 # Data Analyst Portfolio
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, R, SAS
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education						       		
+- M.S., Statistics	| University of Delaware (Expected _December 2027_)	 			        		
+- B.S., Statistics | University of Delaware (_May 2026_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Research assistant @ M^3 Lab (_Feb 2025 - May2026_)**
+- Developed Excel & R-based tools to automate data workflows, reducing manual data preprocessing time while maintaining data accuracy.
+- Cleaned and preprocessed datasets in R and Excel to ensure reliable reporting and data analysis.
+- Co-authored a research manuscript as lead analyst, conducting descriptive and inferential statistical analyses (regression, t-tests, ANCOVA) and providing recommendations on model selection and research direction.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**McNair Scholar @ University of Delaware (_June 2025 - August2025_)**
+- Applied graph theory and LLMs to analyze and construct counterexamples to spectral graph theory conjectures.
+- Rapidly acquired and applied advanced concepts in graph theory and neural networks within a short research timeline.
+- Presented research findings at an undergraduate symposium, communicating complex mathematical concepts to a broad audience.
+
+
+**Sports Science & Analytics Intern @ University of Delaware (_June 2024 - November2024_)**
+- Analyzed match and player performance data using descriptive statistics to evaluate efficiency and identify trends.
+- Compared expected outcomes (e.g., xG) to actual results to assess effectiveness and identify areas for improvement.
+- Delivered 2–3 weekly reports with actionable insights and recommendations to support coaching decisions.
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -52,5 +60,3 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
