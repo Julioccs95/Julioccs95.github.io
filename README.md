@@ -45,12 +45,14 @@ Developed a credit risk model to predict borrower default risk using loan-level 
 Developed a credit risk model to predict borrower default risk using loan-level data. The project included data preprocessing, feature engineering, class-imbalance handling, model comparison, and evaluation with precision, recall, F1-score, ROC-AUC, and precision-recall curves.
 
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Talks
+- **Graph Counterexamples in Spectral Graph Theory** — Undergraduate Research Symposium, University of Delaware, Summer 2024  
+  Presented a 10-minute research talk on using reinforcement learning and neural networks to generate graph counterexamples related to spectral graph theory.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- **Graph Counterexamples in Spectral Graph Theory** — Winter Research Showcase, University of Delaware, Winter 2025  
+  Presented follow-up research expanding on the same project and discussing updated methods, results, and future work.
+  
+- **Credit Risk Segmentation** — Senior Research Project presentation, University of Delaware, Spring 2025
+  Presented a 20-minute talk on predicting probability of default from a Statistical, Machine Learning, and Deep Learning Perspective.
+
+- [YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
