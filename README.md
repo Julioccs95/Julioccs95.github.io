@@ -55,4 +55,4 @@ Developed a credit risk model to predict borrower default risk using loan-level 
 - **Credit Risk Segmentation** — Senior Research Project presentation, University of Delaware, Spring 2025
   Presented a 20-minute talk on predicting probability of default from a Statistical, Machine Learning, and Deep Learning Perspective.
 
-[YouTube](https://www.youtube.com/@Struggling_statistician)
+- [Data Science YouTube](https://youtube.com/@struggling_statistician?si=3bAPutaeiXPJ6YRT)
