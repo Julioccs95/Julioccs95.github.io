@@ -40,7 +40,7 @@ Developed a credit risk model to predict borrower default risk using loan-level 
 
 
 ### Sports Science & Analytics Soccer reports
-[GitHub Repository](https://github.com/Julioccs95/STAT468)
+[GitHub Repository](https://github.com/Julioccs95/Sports-Science-Analytics-reports)
 
 Developed a credit risk model to predict borrower default risk using loan-level data. The project included data preprocessing, feature engineering, class-imbalance handling, model comparison, and evaluation with precision, recall, F1-score, ROC-AUC, and precision-recall curves.
 
