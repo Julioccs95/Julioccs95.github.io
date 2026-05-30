@@ -8,18 +8,18 @@
 - B.S., Statistics | University of Delaware (_May 2026_)
 
 ## Work Experience
-**Research assistant @ M^3 Lab (_Feb 2025 - May2026_)**
+**Research assistant @ M^3 Lab (_Feb 2025 - May 2026_)**
 - Developed Excel & R-based tools to automate data workflows, reducing manual data preprocessing time while maintaining data accuracy.
 - Cleaned and preprocessed datasets in R and Excel to ensure reliable reporting and data analysis.
 - Co-authored a research manuscript as lead analyst, conducting descriptive and inferential statistical analyses (regression, t-tests, ANCOVA) and providing recommendations on model selection and research direction.
 
-**McNair Scholar @ University of Delaware (_June 2025 - August2025_)**
+**McNair Scholar @ University of Delaware (_June 2025 - August 2025_)**
 - Applied graph theory and LLMs to analyze and construct counterexamples to spectral graph theory conjectures.
 - Rapidly acquired and applied advanced concepts in graph theory and neural networks within a short research timeline.
 - Presented research findings at an undergraduate symposium, communicating complex mathematical concepts to a broad audience.
 
 
-**Sports Science & Analytics Intern @ University of Delaware (_June 2024 - November2024_)**
+**Sports Science & Analytics Intern @ University of Delaware (_June 2024 - November 2024_)**
 - Analyzed match and player performance data using descriptive statistics to evaluate efficiency and identify trends.
 - Compared expected outcomes (e.g., xG) to actual results to assess effectiveness and identify areas for improvement.
 - Delivered 2–3 weekly reports with actionable insights and recommendations to support coaching decisions.
