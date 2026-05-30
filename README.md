@@ -29,7 +29,7 @@
 ### Car Price Inference
 [GitHub Repository](https://github.com/Julioccs95/Car-Price-Inference)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed an inferential regression analysis in **SAS** to evaluate how vehicle characteristics influence MSRP. The project included exploratory data analysis, treatment of influential observations, multicollinearity diagnostics, stepwise variable selection, interaction testing, and model validation through residual diagnostics. A log-transformed multiple linear regression model improved assumption validity and achieved strong fit, with R² = 0.845 and adjusted R² = 0.839.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
