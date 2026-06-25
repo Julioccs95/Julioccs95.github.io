@@ -29,7 +29,7 @@
 ### Car Price Inference
 [GitHub Repository](https://github.com/Julioccs95/Car-Price-Inference)
 
-Developed an inferential regression analysis in **SAS** to evaluate how vehicle characteristics influence MSRP. The project included exploratory data analysis, treatment of influential observations, multicollinearity diagnostics, stepwise variable selection, interaction testing, and model validation through residual diagnostics. A log-transformed multiple linear regression model improved assumption validity and achieved strong fit, with R² = 0.845 and adjusted R² = 0.839.
+Developed an inferential regression analysis in SAS(Later revisited in R) to evaluate how vehicle characteristics influence MSRP. The project included exploratory data analysis, treatment of influential observations, multicollinearity diagnostics, stepwise variable selection, interaction testing, and model validation through residual diagnostics. A log-transformed multiple linear regression model improved assumption validity and achieved strong fit, with R² = 0.845 and adjusted R² = 0.839.
 
 
 ### Credit Risk Default Prediction
