@@ -29,7 +29,7 @@
 ### Car Price Inference
 [GitHub Repository](https://github.com/Julioccs95/Car-Price-Inference)
 
-Developed an inferential regression analysis in SAS(Later revisited in R) to evaluate how vehicle characteristics influence MSRP. The project included exploratory data analysis, treatment of influential observations, multicollinearity diagnostics, stepwise variable selection, interaction testing, and model validation through residual diagnostics. A log-transformed multiple linear regression model improved assumption validity and achieved strong fit, with R² = 0.845 and adjusted R² = 0.839.
+Developed an inferential regression analysis in SAS, later revisited in R, to evaluate which vehicle characteristics were associated with MSRP. The project included data cleaning, exploratory data analysis, statistical modeling, model assumption checking, and interpretation of results. The final model achieved an R² of approximately 0.87, and diagnostic checks supported the validity of the model’s inferential insights.
 
 
 ### Credit Risk Default Prediction
@@ -42,7 +42,7 @@ Developed a credit risk model to predict borrower default risk using loan-level 
 ### Sports Science & Analytics Soccer reports
 [GitHub Repository](https://github.com/Julioccs95/Sports-Science-Analytics-reports)
 
-Developed a credit risk model to predict borrower default risk using loan-level data. The project included data preprocessing, feature engineering, class-imbalance handling, model comparison, and evaluation with precision, recall, F1-score, ROC-AUC, and precision-recall curves.
+Created recurring match perfomance reports for the University of Delawre mens soccer team. The reports focused on descriptive statistics, expected goals, match trends, team comparisons, and valuable insights to support coaching decisions.
 
 
 ## Talks
