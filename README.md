@@ -11,7 +11,7 @@
 [LinkedIn](https://www.linkedin.com/in/julio-cesar-carrillo-soto-4b2673280/) | [GitHub](https://github.com/Julioccs95) | [Email](mailto:jc_carrillo_soto@outlook.com)
 
 ## Work Experience
-**Research assistant @ M^3 Lab (_Feb 2025 - May 2026_)**
+**Research assistant, M^3 Lab (_Feb 2025 - May 2026_)**
 - Developed Excel & R-based tools to automate data workflows, reducing manual data preprocessing time while maintaining data accuracy.
 - Cleaned and preprocessed datasets in R and Excel to ensure reliable reporting and data analysis.
 - Co-authored a research manuscript as lead analyst, conducting descriptive and inferential statistical analyses (regression, t-tests, ANCOVA) and providing recommendations on model selection and research direction.
@@ -42,10 +42,10 @@ Developed a credit risk model to predict borrower default risk using loan-level 
 
 
 
-### Sports Science & Analytics Soccer reports
+### Sports Science & Analytics Soccer Reports
 [GitHub Repository](https://github.com/Julioccs95/Sports-Science-Analytics-reports)
 
-Created recurring match perfomance reports for the University of Delawre mens soccer team. The reports focused on descriptive statistics, expected goals, match trends, team comparisons, and valuable insights to support coaching decisions.
+Created recurring match perfomance reports for the University of Delawre men's soccer team. The reports focused on descriptive statistics, expected goals, match trends, team comparisons, and valuable insights to support coaching decisions.
 
 
 ## Talks
@@ -58,4 +58,4 @@ Created recurring match perfomance reports for the University of Delawre mens so
 - **Credit Risk Segmentation** — Senior Research Project presentation, University of Delaware, Spring 2025
   Presented a 20-minute talk on predicting probability of default from a Statistical, Machine Learning, and Deep Learning Perspective.
 
-[YouTube](https://youtube.com/@struggling_statistician?si=3bAPutaeiXPJ6YRT)
+[View presentations on you tube](https://youtube.com/@struggling_statistician?si=3bAPutaeiXPJ6YRT)
