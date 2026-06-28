@@ -8,7 +8,7 @@
 - B.S., Statistics | University of Delaware (_May 2026_)
 
 **Contact:**  
-[LinkedIn](https://www.linkedin.com/in/julio-cesar-carrillo-soto-4b2673280/) | [GitHub](https://github.com/Julioccs95) | [Email](jc_carrillo_soto@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/julio-cesar-carrillo-soto-4b2673280/) | [GitHub](https://github.com/Julioccs95) | [Email](mailto:jc_carrillo_soto@outlook.com)
 
 ## Work Experience
 **Research assistant @ M^3 Lab (_Feb 2025 - May 2026_)**
